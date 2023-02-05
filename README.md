@@ -8,4 +8,4 @@ Ensuite lancer la commande : yarn
 
 Puis lancer : yarn start 
 
-En cas de problème au moment du yarn, supprimer le yarn.lock à la racine du projet puis relancer la commande : yarn 
+En cas de problème au moment de l'installation des dépendances, supprimer le yarn.lock à la racine du projet puis relancer la commande : yarn 
